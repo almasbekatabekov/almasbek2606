@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I think I'm gentle**
 - 💬 About my experiences **HTML5, CSS3, Javascript, C, Python**
-- 📲 My email address <code><img height="34" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Femail-logo-png&psig=AOvVaw3Ikz-d98TgmqbAIGDl-b39&ust=1682926402280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKi9wcaL0f4CFQAAAAAdAAAAABAE](https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png)">CLICK</code>
+- 📲 My email address <code><img height="34" src="(https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png)">CLICK</code>
 
 
 <h3 align="left">Connect with me:</h3>
