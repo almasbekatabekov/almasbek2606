@@ -6,6 +6,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - ⚡ Fun fact **I think I'm gentle**
+- 💬 About my experiences **HTML5, CSS3, Javascript, C, Python**
+- 📲 My email address <code><img height="34" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Femail-logo-png&psig=AOvVaw3Ikz-d98TgmqbAIGDl-b39&ust=1682926402280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKi9wcaL0f4CFQAAAAAdAAAAABAE">CLICK</code>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
