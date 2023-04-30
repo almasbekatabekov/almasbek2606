@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almasbek2606&label=Profile%20views&color=0e75b6&style=flat" alt="almasbek2606" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-## About me
+
 - ⚡ Fun fact **I think I'm gentle**
 - 💬 About my experiences **HTML5, CSS3, Javascript, C, Python**
 - 📲 My email address <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img align="center" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIX97EoQs57ChvM_ropA5ycDVc_txz6z3wHBdOOXmmFw0D7GMO" alt="almasbek atabekov" height="30" width="40" /></a>
