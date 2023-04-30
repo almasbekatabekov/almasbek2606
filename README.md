@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Almasbek Atabekov</h1>
 <h3 align="center">I'm Backend Developer</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almasbek2606&label=Profile%20views&color=0e75b6&style=flat" alt="almasbek2606" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p align="right"> <img src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif" width="600px"> </p>
+
 :sassy_man: About me
 - ⚡ Fun fact **I think I'm gentle**
 - 💬 About my experiences **HTML5, CSS3, Javascript, C, Python**
