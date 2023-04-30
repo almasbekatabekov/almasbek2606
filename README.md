@@ -16,6 +16,7 @@
 <a href="https://www.facebook.com/profile.php?id=100072318931719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="almasbek atabekov" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCzgIA4n4HkPIhiQff27SB6g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uczgia4n4hkpihiqff27sb6g" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_atabekov_almasbek_/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="https://www.instagram.com/_atabekov_almasbek_/" height="30" width="40" /></a>
+<a href="https://twitter.com/AlmasbekAtabek" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Logo_of_Twitter.svg#/media/File:Logo_of_Twitter.svg" alt="https://twitter.com/AlmasbekAtabek" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
